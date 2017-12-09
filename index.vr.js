@@ -14,35 +14,35 @@ import UI from './components/UI';
 const Config = [
   {
     key: 0,
-    imageSrc: 'ecosystems-home.jpg',
+    imageSrc: 'ecosystems-home-2.jpg',
     buttonImageSrc: 'arctic-thumbnail.jpg',
     buttonTitle: 'Arctic',
     externalSrc: 'https://www.youtube.com/embed/HTq7HkixZGc?autoplay=1'
   },
   {
     key: 1,
-    imageSrc: 'ecosystems-home.jpg',
+    imageSrc: 'ecosystems-home-2.jpg',
     buttonImageSrc: 'deserts-thumbnail.jpg',
     buttonTitle: 'Desert',
     externalSrc: 'https://askabiologist.asu.edu/sites/default/files/virtual-reality/desert-biome-VR-360/index.html' 
   },
   {
     key: 2,
-    imageSrc: 'ecosystems-home.jpg',
+    imageSrc: 'ecosystems-home-2.jpg',
     buttonImageSrc: 'grasslands-thumbnail.jpg',
     buttonTitle: 'Grasslands',
     externalSrc: 'https://www.youtube.com/embed/QImyr9P3jzg?autoplay=1'
   },
   {
     key: 3,
-    imageSrc: 'ecosystems-home.jpg',
+    imageSrc: 'ecosystems-home-2.jpg',
     buttonImageSrc: 'oceans-thumbnail.jpg',
     buttonTitle: 'Ocean',
     externalSrc: 'https://www.youtube.com/embed/Q0YVKoYTJ0M?autoplay=1'    
   },
   {
     key: 4,
-    imageSrc: 'ecosystems-home.jpg',
+    imageSrc: 'ecosystems-home-2.jpg',
     buttonImageSrc: 'rainforests-thumbnail.jpg',
     buttonTitle: 'Rainforest',
     externalSrc: 'https://askabiologist.asu.edu/sites/default/files/virtual-reality/rainforest-biome-VR-360/index.html' 
