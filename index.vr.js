@@ -14,34 +14,35 @@ import UI from './components/UI';
 const Config = [
   {
     key: 0,
-    imageSrc: 'inside-bar.jpg',
+    imageSrc: 'ecosystems-home.jpg',
     buttonImageSrc: 'arctic-thumbnail.jpg',
     buttonTitle: 'Arctic',
-    externalSrc: 'https://www.jauntvr.com/title/9f4c87ae68'
+    externalSrc: 'https://www.youtube.com/embed/HTq7HkixZGc?autoplay=1'
   },
   {
     key: 1,
-    imageSrc: 'inside-sofas.jpg',
+    imageSrc: 'ecosystems-home.jpg',
     buttonImageSrc: 'deserts-thumbnail.jpg',
     buttonTitle: 'Desert',
     externalSrc: 'https://askabiologist.asu.edu/sites/default/files/virtual-reality/desert-biome-VR-360/index.html' 
   },
   {
     key: 2,
-    imageSrc: 'outside-gate.jpg',
+    imageSrc: 'ecosystems-home.jpg',
     buttonImageSrc: 'grasslands-thumbnail.jpg',
-    buttonTitle: 'Grasslands'
+    buttonTitle: 'Grasslands',
+    externalSrc: 'https://www.youtube.com/embed/QImyr9P3jzg?autoplay=1'
   },
   {
     key: 3,
-    imageSrc: 'outside-benches.jpg',
+    imageSrc: 'ecosystems-home.jpg',
     buttonImageSrc: 'oceans-thumbnail.jpg',
     buttonTitle: 'Ocean',
     externalSrc: 'https://www.youtube.com/embed/Q0YVKoYTJ0M?autoplay=1'    
   },
   {
     key: 4,
-    imageSrc: 'outside-benches.jpg',
+    imageSrc: 'ecosystems-home.jpg',
     buttonImageSrc: 'rainforests-thumbnail.jpg',
     buttonTitle: 'Rainforest',
     externalSrc: 'https://askabiologist.asu.edu/sites/default/files/virtual-reality/rainforest-biome-VR-360/index.html' 
@@ -53,7 +54,7 @@ export default class GDVR_REACTVR_SITEPOINT_GALLERY extends React.Component {
     super();
 
     this.state = {
-      src: 'ecosystems-home.jpg',
+      src: 'ecosystems-home-2.jpg',
       videoUrl: 'rainforest-360.mp4'
     };
   }
